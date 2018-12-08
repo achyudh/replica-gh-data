@@ -1,5 +1,5 @@
 # Replica-GH-Data
-Data for the Replica-GH project. For the codebase, check out https://github.com/achyudhk/Replica-GH.
+Data for the Replica-GH project. For the codebase, check out https://github.com/achyudhk/ReplicaGH.
 
 ### References
 * Yu, Yue, et al. "A dataset of duplicate pull-requests in github." Proceedings of the 15th International Conference on Mining Software Repositories. ACM, 2018.
