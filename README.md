@@ -1,5 +1,5 @@
-# Replica-GH-Data
-Data for the Replica-GH project. For the codebase, check out https://github.com/achyudhk/ReplicaGH.
+# ReplicaGH Data
+Data for the Replica-GH project. For the codebase, check out https://github.com/achyudh/replica-gh.
 
 ### References
 * Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.
